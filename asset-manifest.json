@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-capestone-project-1/static/css/main.4d7c7760.css",
+    "main.js": "/react-capestone-project-1/static/js/main.328e0c0c.js",
+    "static/media/back1.png": "/react-capestone-project-1/static/media/back1.034950db6609bf9d5f24.png",
+    "static/media/image14.png": "/react-capestone-project-1/static/media/image14.04596714d17a6a2e53c9.png",
+    "static/media/image3.png": "/react-capestone-project-1/static/media/image3.1adfc4ecc0abe91b088d.png",
+    "static/media/image4.png": "/react-capestone-project-1/static/media/image4.0375adee8b54659f18ee.png",
+    "static/media/image8.png": "/react-capestone-project-1/static/media/image8.d0cbade07f556a5ce99a.png",
+    "static/media/image9.png": "/react-capestone-project-1/static/media/image9.f0a1acc588296a107523.png",
+    "static/media/image6.png": "/react-capestone-project-1/static/media/image6.c195e3f49f88bb098119.png",
+    "static/media/image11.png": "/react-capestone-project-1/static/media/image11.788a5cdacc32777682f5.png",
+    "static/media/image7.png": "/react-capestone-project-1/static/media/image7.8a2e15c8e97562e28889.png",
+    "static/media/image10.png": "/react-capestone-project-1/static/media/image10.0e8b8766a7a8faf39177.png",
+    "static/media/image2.png": "/react-capestone-project-1/static/media/image2.96f1a2ab8f530f61a4e7.png",
+    "index.html": "/react-capestone-project-1/index.html",
+    "main.4d7c7760.css.map": "/react-capestone-project-1/static/css/main.4d7c7760.css.map",
+    "main.328e0c0c.js.map": "/react-capestone-project-1/static/js/main.328e0c0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d7c7760.css",
+    "static/js/main.328e0c0c.js"
+  ]
+}
